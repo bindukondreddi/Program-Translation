@@ -1,18 +1,3 @@
-/*
-
-	Name: Adrian J. Paparelli
-	Class: CSCI 5220
-	Session: Spring 2016
-
-	Description: parser.y defines the grammar rules for the SFL language, and adds the abstract syntax trees.
-
-	Change Log:
-	2016-04-05: Initial Revision
-	2016-04-18: Added Symantic Parser
-
-	Known Issue: Shift Reduce conflict with Action;Expr rule.
-
-*/
 %{
 #include <stdio.h>
 #include <string.h>
