@@ -1,9 +1,4 @@
 /*
-
-	Name: Adrian J. Paparelli
-	Class: CSCI 5220
-	Session: Spring 2016
-
 	Description: symboltable.c contains all function used in generating
 	a symbol table. Function descriptions will follow to
 	explain each funtion.
@@ -15,10 +10,6 @@
 
 	I have not implements function removal as of this time, only symbol find and insertion, and AST tree
 	retrieval.
-
-	Change Log:
-	2016-02-26: Initial Revision
-
 */
 
 #include <stdio.h>
