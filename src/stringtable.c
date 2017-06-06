@@ -1,16 +1,3 @@
-/*
-
-	Name: Adrian J. Paparelli
-	Class: CSCI 5220
-	Session: Spring 2016
-
-	Description: stringtable.c contains all function used in storing 
-		strings into a string list.
-
-	Change Log:
-	2016-11-14: Initial Revision
-
-*/
 
 #include <stdlib.h>
 #include <stdio.h>
