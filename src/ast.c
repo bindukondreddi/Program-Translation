@@ -1,17 +1,3 @@
-/*
-
-	Name: Adrian J. Paparelli
-	Class: CSCI 5220
-	Session: Spring 2016
-
-	Description: ast.c contains all function used in generating
-	abstract syntax trees. Function descriptions will follow to
-	explain each funtion.
-
-	Change Log:
-	2016-02-17: Initial Revision
-
-*/
 
 #include <stdio.h>
 #include <string.h>
